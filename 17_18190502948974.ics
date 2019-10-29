@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Doxpop//Calendar Events//EN
+
+BEGIN:VEVENT
+UID:817574824@doxpop.com
+DTSTART:20190403T123000Z
+DTEND:20190403T123000Z
+SUMMARY:84H01-1904-CM-000607 State of Indiana  v.  Heather Michelle Miller
+STATUS:CONFIRMED
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Case Number: 84H01-1904-CM-000607=0ATit=
+le:   State of Indiana  v.  Heather Michelle Miller=0AEvent:   Initial Hearin=
+g=0ACourt:   Terre Haute City Court=0AStatus:  Confirmed=0A=0Ahttps://www.doxpop.co=
+m/prod/court/ViewCaseDetails?caseId=3D1819035259572=0A
+
+LOCATION:Vigo/Terre Haute City Court
+END:VEVENT
+
+END:VCALENDAR
